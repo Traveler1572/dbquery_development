@@ -1,0 +1,3 @@
+-- Inner join (INNER JOIN)
+SELECT * FROM MEMBER_TBL INNER JOIN SEX_TBL ON 
+	MEMBER_TBL.member_id = SEX_TBL.member_id;

@@ -1,0 +1,3 @@
+-- Outer join (OUTER JOIN)
+SELECT * FROM MEMBER_TBL LEFT OUTER JOIN SEX_TBL ON 
+	MEMBER_TBL.member_id = SEX_TBL.member_id;

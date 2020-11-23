@@ -1,0 +1,14 @@
+-- Record ADD Query
+	-- Edit the value of VALUES to any data before executing.
+
+INSERT INTO tbl20200816 VALUES("Y0001", "sugimoto", 65);
+INSERT INTO tbl20200816 VALUES("Y0002", "hasegawa", 64);
+INSERT INTO tbl20200816 VALUES("Y0003", "hamada", 57);
+INSERT INTO tbl20200816 VALUES("Y0004", "matsumoto", 56);
+INSERT INTO tbl20200816 VALUES("Y0005", "higashino", 53);
+INSERT INTO tbl20200816 VALUES("Y0006", "imada", 54);
+INSERT INTO tbl20200816 VALUES("Y0007", "itao", 57);
+INSERT INTO tbl20200816 VALUES("Y0008", "kurano", 57);
+INSERT INTO tbl20200816 VALUES("Y0009", "hosei", 52);
+INSERT INTO tbl20200816 VALUES("Y0010", "endo", 49);
+INSERT INTO tbl20200816 VALUES("Y0011", "tanaka", 49);
